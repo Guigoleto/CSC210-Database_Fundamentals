@@ -1,0 +1,54 @@
+Country
+---------------
+Argentina
+Austria
+Belgium
+Brazil
+Canada
+Denmark
+Finland
+France
+Germany
+Ireland
+Italy
+Mexico
+Norway
+Poland
+Portugal
+Spain
+Sweden
+Switzerland
+UK
+USA
+Venezuela
+
+(21 rows affected)
+
+ProductID   ProductName
+----------- ----------------------------------------
+5           Chef Anton's Gumbo Mix
+9           Mishi Kobe Niku
+17          Alice Mutton
+24          Guaraná Fantástica
+28          Rössle Sauerkraut
+29          Thüringer Rostbratwurst
+42          Singaporean Hokkien Fried Mee
+53          Perth Pasties
+
+(8 rows affected)
+
+ProductName                              CompanyName                              From: 
+---------------------------------------- ---------------------------------------- ---------------
+Chef Anton's Gumbo Mix                   New Orleans Cajun Delights               USA
+Mishi Kobe Niku                          Tokyo Traders                            Japan
+Alice Mutton                             Pavlova, Ltd.                            Australia
+Guaraná Fantástica                       Refrescos Americanas LTDA                Brazil
+Rössle Sauerkraut                        Plutzer Lebensmittelgroßmärkte AG        Germany
+Thüringer Rostbratwurst                  Plutzer Lebensmittelgroßmärkte AG        Germany
+Singaporean Hokkien Fried Mee            Leka Trading                             Singapore
+Perth Pasties                            G'day, Mate                              Australia
+
+(8 rows affected)
+
+
+Completion time: 2019-12-03T13:55:32.9128888-08:00
