@@ -1,0 +1,118 @@
+VendorID    VendorName                                         VendorCity
+----------- -------------------------------------------------- --------------------------------------------------
+56          Springhouse Corp                                   Philadelphia
+68          Computer Library                                   Phoenix
+80          Cardinal Business Media, Inc.                      Philadelphia
+93          AT&T                                               Phoenix
+96          Wells Fargo Bank                                   Phoenix
+
+(5 rows affected)
+
+VendorID    VendorName                                         VendorCity
+----------- -------------------------------------------------- --------------------------------------------------
+68          Computer Library                                   Phoenix
+86          Computerworld                                      San Francisco
+97          Compuserve                                         Columbus
+
+(3 rows affected)
+
+VendorID    VendorName                                         VendorCity                                         VendorContactLName
+----------- -------------------------------------------------- -------------------------------------------------- --------------------------------------------------
+70          Fresno Credit Bureau                               Fresno                                             Braydon
+76          Simon Direct Inc                                   East Brunswick                                     Bradlee
+108         Gostanian General Building                         Fresno                                             Bragg
+
+(3 rows affected)
+
+VendorID    VendorName                                         VendorCity                                         VendorState
+----------- -------------------------------------------------- -------------------------------------------------- -----------
+5           Newbrige Book Clubs                                Washington                                         NJ
+27          Rich Advertising                                   Fairfield                                          NJ
+32          RR Bowker                                          East Brunswick                                     NJ
+47          Baker & Taylor Books                               Charlotte                                          NC
+76          Simon Direct Inc                                   East Brunswick                                     NJ
+
+(5 rows affected)
+
+VendorID    VendorName                                         VendorCity                                         VendorState
+----------- -------------------------------------------------- -------------------------------------------------- -----------
+5           Newbrige Book Clubs                                Washington                                         NJ
+27          Rich Advertising                                   Fairfield                                          NJ
+32          RR Bowker                                          East Brunswick                                     NJ
+47          Baker & Taylor Books                               Charlotte                                          NC
+76          Simon Direct Inc                                   East Brunswick                                     NJ
+
+(5 rows affected)
+
+VendorID    VendorName                                         VendorCity                                         VendorZipCode
+----------- -------------------------------------------------- -------------------------------------------------- --------------------
+5           Newbrige Book Clubs                                Washington                                         07882
+27          Rich Advertising                                   Fairfield                                          07004
+32          RR Bowker                                          East Brunswick                                     08810
+44          Courier Companies, Inc                             Boston                                             02206
+62          Cmg Information Services                           Boston                                             02107
+66          Ascom Hasler Mailing Systems                       Shelton                                            06484
+76          Simon Direct Inc                                   East Brunswick                                     08816
+103         Dean Witter Reynolds                               Boston                                             02134
+
+(8 rows affected)
+
+VendorID    VendorName                                         VendorCity                                         VendorZipCode
+----------- -------------------------------------------------- -------------------------------------------------- --------------------
+2           National Information Data Ctr                      Washington                                         20090
+3           Register of Copyrights                             Washington                                         20559
+82          Reiter's Scientific & Pro Books                    Washington                                         20006
+
+(3 rows affected)
+
+VendorId    VendorName                                         VendorCity                                         VendorState VendorZipCode
+----------- -------------------------------------------------- -------------------------------------------------- ----------- --------------------
+37          Blue Cross                                         Oxnard                                             CA          93031
+57          The Windows Deck                                   Santa Barbara                                      CA          93101
+35          Cal State Termite                                  Selma                                              CA          93662
+11          Bill Marvin Electric Inc                           Fresno                                             CA          93703
+15          ASC Signs                                          Fresno                                             CA          93703
+75          Retirement Plan Consultants                        Fresno                                             CA          93704
+78          The Presort Center                                 Fresno                                             CA          93706
+23          Yale Industrial Trucks-Fresno                      Fresno                                             CA          93706
+114         Postmaster                                         Fresno                                             CA          93706
+117         Suburban Propane                                   Fresno                                             CA          93706
+101         California Business Machines                       Fresno                                             CA          93710
+73          Executive Office Products                          Fresno                                             CA          93710
+53          Gary McKeighan Insurance                           Fresno                                             CA          93711
+104         Digital Dreamworks                                 Fresno                                             CA          93711
+90          Wakefield Co                                       Fresno                                             CA          93711
+30          Costco                                             Fresno                                             CA          93711
+108         Gostanian General Building                         Fresno                                             CA          93711
+120         Dataforms/West                                     Fresno                                             CA          93711
+121         Zylka Design                                       Fresno                                             CA          93711
+102         Coffee Break Service                               Fresno                                             CA          93714
+70          Fresno Credit Bureau                               Fresno                                             CA          93714
+48          Fresno County Tax Collector                        Fresno                                             CA          93715
+18          Fresno Photoengraving Company                      Fresno                                             CA          93718
+12          City Of Fresno                                     Fresno                                             CA          93718
+119         Yesmed, Inc                                        Fresno                                             CA          93718
+105         Dristas Groom & McCormick                          Fresno                                             CA          93720
+19          Crown Printing                                     Fresno                                             CA          93721
+25          California Data Marketing                          Fresno                                             CA          93721
+111         Net Asset, Llc                                     Fresno                                             CA          93721
+113         Pollstar                                           Fresno                                             CA          93722
+94          Abbey Office Furnishings                           Fresno                                             CA          93722
+58          Fresno Rack & Shelving Inc                         Fresno                                             CA          93722
+54          Ph Photographic Services                           Fresno                                             CA          93726
+14          Expedata Inc                                       Fresno                                             CA          93726
+10          Robbins Mobile Lock And Key                        Fresno                                             CA          93726
+69          Frank E Wilber Co                                  Fresno                                             CA          93727
+63          Lou Gentile's Flower Basket                        Fresno                                             CA          93728
+41          Shields Design                                     Fresno                                             CA          93728
+36          Graylift                                           Fresno                                             CA          93745
+92          Zip Print & Copy Center                            Fresno                                             CA          93777
+79          Valprint                                           Fresno                                             CA          93777
+71          The Fresno Bee                                     Fresno                                             CA          93786
+8           BFI Industries                                     Fresno                                             CA          93792
+16          Internal Revenue Service                           Fresno                                             CA          93888
+
+(44 rows affected)
+
+
+Completion time: 2019-12-03T13:46:37.8803713-08:00
