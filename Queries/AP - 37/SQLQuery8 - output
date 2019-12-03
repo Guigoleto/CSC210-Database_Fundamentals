@@ -1,0 +1,109 @@
+Number of Invoices Total Due
+------------------ -----------
+114                $ 32,020.42
+
+(1 row affected)
+
+Number of Invoices Average Invoice Amount Total Invoice Amount
+------------------ ---------------------- ----------------------
+114                $ 1,879.74             $ 214,290.51
+
+(1 row affected)
+
+Vendor ID   Company Name                                       Invoices Total        Invoices Average
+----------- -------------------------------------------------- --------------------- ---------------------
+34          IBM                                                1200.12               600.06
+72          Data Reproductions Corp                            21927.31              10963.655
+83          Ingram                                             2154.42               1077.21
+86          Computerworld                                      2433.00               2433.00
+99          Bertelsmann Industry Svcs. Inc                     6940.25               6940.25
+100         Cahners Publishing Company                         2184.50               2184.50
+103         Dean Witter Reynolds                               1367.50               1367.50
+104         Digital Dreamworks                                 7125.34               7125.34
+107         Franchise Tax Board                                1600.00               1600.00
+110         Malloy Lithographing Inc                           119892.41             23978.482
+113         Pollstar                                           1750.00               1750.00
+119         Yesmed, Inc                                        4901.26               4901.26
+121         Zylka Design                                       6940.25               867.5312
+122         United Parcel Service                              23177.96              2575.3288
+123         Federal Express Corporation                        4378.02               93.1493
+
+(15 rows affected)
+
+Californian Vendors
+-------------------
+75
+
+(1 row affected)
+
+VendorID    Quantity of Invoices Invoices Total
+----------- -------------------- ----------------------
+34          2                    $ 0.0000
+37          3                    $ 224.0000
+48          1                    $ 0.0000
+72          2                    $ 85.3100
+80          2                    $ 90.3600
+81          1                    $ 0.0000
+82          1                    $ 0.0000
+83          2                    $ 579.4200
+86          1                    $ 0.0000
+88          1                    $ 0.0000
+89          1                    $ 0.0000
+90          1                    $ 0.0000
+94          1                    $ 0.0000
+95          6                    $ 0.0000
+96          1                    $ 0.0000
+97          2                    $ 0.0000
+99          1                    $ 0.0000
+100         1                    $ 0.0000
+102         1                    $ 0.0000
+103         1                    $ 0.0000
+104         1                    $ 0.0000
+105         1                    $ 0.0000
+106         1                    $ 503.2000
+107         1                    $ 0.0000
+108         1                    $ 0.0000
+110         5                    $ 30327.2400
+113         1                    $ 0.0000
+114         1                    $ 0.0000
+115         4                    $ 0.0000
+117         1                    $ 0.0000
+119         1                    $ 0.0000
+121         8                    $ 0.0000
+122         9                    $ 0.0000
+123         47                   $ 210.8900
+NULL        114                  $ 32020.4200
+
+(35 rows affected)
+
+VendorState VendorCity                                         Quantity of Vendors
+----------- -------------------------------------------------- -------------------
+NJ          Washington                                         1
+NJ          Fairfield                                          1
+NJ          East Brunswick                                     2
+NJ          NULL                                               4
+IA          Washington                                         1
+IA          Fairfield                                          1
+IA          NULL                                               2
+NULL        NULL                                               6
+
+(8 rows affected)
+
+VendorState VendorCity                                         Quantity of Vendors
+----------- -------------------------------------------------- -------------------
+NJ          Washington                                         1
+NJ          Fairfield                                          1
+NJ          East Brunswick                                     2
+NJ          NULL                                               4
+IA          Washington                                         1
+IA          Fairfield                                          1
+IA          NULL                                               2
+NULL        Washington                                         2
+NULL        Fairfield                                          2
+NULL        East Brunswick                                     2
+NULL        NULL                                               6
+
+(11 rows affected)
+
+
+Completion time: 2019-12-03T13:43:36.5923149-08:00
